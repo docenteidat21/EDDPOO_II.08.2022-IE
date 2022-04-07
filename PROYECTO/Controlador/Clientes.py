@@ -15,7 +15,6 @@ class Cliente:
     def getNombresCliente(self):
         return self.__nombresCliente
 
-
     def getApellidoPaternoCliente(self):
         return self.__apellidoPaternoCliente
 
