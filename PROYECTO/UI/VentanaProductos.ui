@@ -210,17 +210,17 @@
     </property>
     <item>
      <property name="text">
-      <string>Seleccionar Almacén</string>
+      <string>Seleccionar Almacen</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>Almacén 1</string>
+      <string>Almacen 1</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>Almacén 2</string>
+      <string>Almacen 2</string>
      </property>
     </item>
    </widget>

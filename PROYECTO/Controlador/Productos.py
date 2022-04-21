@@ -1,7 +1,6 @@
 class Producto:
 
     def __init__(self, codigo, nombre, descripcion, stockMinimo, stockActual, precioCosto, precioVenta, proveedor, almacen):
-
         self.__codigo = codigo
         self.__nombre = nombre
         self.__descripcion = descripcion
@@ -65,6 +64,3 @@ class Producto:
 
     def setAlmacen(self, almacen):
         self.__almacen = almacen
-
-    
-
